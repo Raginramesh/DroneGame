@@ -1736,6 +1736,21 @@ PrefabInstance:
       propertyPath: invertYAxis
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5576490178491300301, guid: 564b8eb6dfc0448efb1be52db05b0f92,
+        type: 3}
+      propertyPath: aimingRotationMultiplier
+      value: 0.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576490178491300301, guid: 564b8eb6dfc0448efb1be52db05b0f92,
+        type: 3}
+      propertyPath: RotationMultiplier
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576490178491300301, guid: 564b8eb6dfc0448efb1be52db05b0f92,
+        type: 3}
+      propertyPath: rotationSpeed
+      value: 100
+      objectReference: {fileID: 0}
     - target: {fileID: 5576490178491300302, guid: 564b8eb6dfc0448efb1be52db05b0f92,
         type: 3}
       propertyPath: m_LocalPosition.x

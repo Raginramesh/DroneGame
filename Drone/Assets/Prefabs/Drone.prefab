@@ -92,7 +92,7 @@ MonoBehaviour:
   accelerationSpeedInAir: 25
   sprintSpeedModifier: 1.5
   killHeight: -50
-  rotationSpeed: 200
+  rotationSpeed: 100
   aimingRotationMultiplier: 0.4
   jumpForce: 9
   recievesFallDamage: 0
@@ -100,7 +100,7 @@ MonoBehaviour:
   maxSpeedForFallDamage: 30
   fallDamageAtMinSpeed: 10
   fallDamageAtMaxSpeed: 50
-  RotationMultiplier: 1
+  RotationMultiplier: 0.5
 --- !u!1 &5576490179626982396
 GameObject:
   m_ObjectHideFlags: 0
